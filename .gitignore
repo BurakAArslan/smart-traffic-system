@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Vector DB
+vector_db/
+
+# Node
+node_modules/
+.next/
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# Python cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+# LLM Models
+backend/src/database/models/
+backend/src/offload/
+
+# Cache
+backend/cache/
+
+# Test files
+tempCodeRunnerFile.py
+
+backend/data/ibb_traffic/
